@@ -10116,20 +10116,7 @@ function Home(props) {
       lineNumber: 6
     },
     __self: this
-  }, "Hey!"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/sell",
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 7
-    },
-    __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    __source: {
-      fileName: _jsxFileName,
-      lineNumber: 8
-    },
-    __self: this
-  }, "sell")));
+  }, "Hey!"));
 }
     (function (Component, route) {
       if(!Component) return
